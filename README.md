@@ -1,1 +1,2 @@
-Program Will Run On The Port Labeled Desktop. (6080). If Port not shown add manually.
+# Pong-Game
+The code will run on a port labeled desktop(6080). If the port is not found, add it manually. The password is "vscode".
